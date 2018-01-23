@@ -1,0 +1,10 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="100px" viewBox="0 0 400 100" enable-background="new 0 0 400 100" xml:space="preserve">
+	 <defs>
+        <linearGradient id="MyGradient">
+            <stop offset="5%"  stop-color="green"/>
+            <stop offset="95%" stop-color="gold"/>
+        </linearGradient>
+    </defs>
+	<text fill="url(#MyGradient)" transform="matrix(1 0 0 1 4.3188 63.4668)" font-family="'Indie Flower', cursiv" font-size="68">Dustin English</text>
+</svg>

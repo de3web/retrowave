@@ -1,0 +1,28 @@
+#screen-sm-min,
+#screen-md-min,
+#screen-lg-min {
+  display: none; }
+
+@media screen and (min-width: 768px) {
+  #screen-sm-min {
+    display: block; } }
+@media screen and (min-width: 980px) {
+  #screen-md-min {
+    display: block; } }
+@media screen and (min-width: 1200px) {
+  #screen-lg-min {
+    display: block; } }
+body {
+  margin: 0px; }
+
+canvas {
+  width: 100%;
+  height: 100%; }
+
+#canvas-container {
+  width: 100vw;
+  max-width: 100%;
+  height: 100vh;
+  max-height: 100%; }
+
+/*# sourceMappingURL=style.css.map */

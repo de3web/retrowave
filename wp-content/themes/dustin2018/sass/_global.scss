@@ -1,0 +1,81 @@
+header {
+	//padding:$spacing;
+	//margin-bottom:5px;
+}
+
+body {
+	background:#000;
+	font-family: 'Abel', sans-serif;
+}
+h1, h2, h3 {
+	font-family: 'Abel', sans-serif;
+}
+video {
+	max-width:100%;
+	height:auto;
+}
+img {
+	// max-width:100%;
+	// height:auto;
+}
+
+::-moz-selection {
+    color: #fff;
+    background: #2989D8;
+}
+::selection {
+    color: #fff; 
+    background: #2989D8;
+}
+
+.font-base {
+	font-size:14px;
+}
+.font-md {
+	font-size:21px;
+}
+.font-lg {
+	font-size:28px;
+}
+.font-xl {
+	font-size:35px;
+}
+.font-xxl {
+	font-size:54px;
+}
+.color-pri {
+	//color:$color-pri;
+	color:#23e8a9;
+}
+.typeface-indieflower {
+	font-family:'Indie Flower', cursive;
+}
+.align-center-xs {
+	text-align:center;
+}
+.align-right-xs {
+	text-align:right;
+}
+.content-mid {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height:100%;
+}
+.flex1 {
+	flex:1;
+}
+
+.rotate-x {
+	-webkit-transform:rotateX(40deg);
+	-moz-transform:rotateX(40deg);
+	transform:rotateX(40deg);
+}
+
+.overhidden {
+	overflow:hidden;
+}
+
+.icon-svg {
+	max-width:100px;
+}
